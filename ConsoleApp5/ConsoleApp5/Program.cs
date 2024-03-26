@@ -67,7 +67,7 @@ namespace ConsoleApp5
 
                     Employee employee = new Employee(Name, Surname, Age, DepartmentName, Salary);
                     Department employees = new Department();
-                    employees.AddEmployee(employee);
+                    department.AddEmployee(employee);
                    
 
                 }

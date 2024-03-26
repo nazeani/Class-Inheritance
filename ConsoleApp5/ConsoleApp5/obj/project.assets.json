@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+      "projectUniqueName": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\Class-Inheritance\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
       "projectName": "ConsoleApp5",
-      "projectPath": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+      "projectPath": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\Class-Inheritance\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
       "packagesPath": "C:\\Users\\Nazani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\ConsoleApp5\\ConsoleApp5\\obj\\",
+      "outputPath": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\Class-Inheritance\\ConsoleApp5\\ConsoleApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nazani\\AppData\\Roaming\\NuGet\\NuGet.Config",
